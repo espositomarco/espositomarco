@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🏫 Helping students learn how to _design_ better software<br>💻 Researching on formal verification of critical systems<br>🎯 Creating and joining research & industry projects as a Consultant<br>✍🏼 Calligraphy enthusiast -- currently learning [Cancelleresca italic](https://en.wikipedia.org/wiki/Chancery_hand)<br><br>💬 Ask me about a new project you have in mind!<br>
+👨🏻‍🏫 Helping students learn how to _design_ better software<br>💻 Researching on formal verification of critical systems @Sapienza [RAISE lab](https://raise.uniroma1.it/)<br>🎯 Creating and joining research & industry projects as a Consultant<br>✍🏼 Calligraphy enthusiast -- currently learning [Cancelleresca italic](https://en.wikipedia.org/wiki/Chancery_hand)<br><br>💬 Ask me about a new project you have in mind!<br>
 
 
 ## 🌐 Socials:
