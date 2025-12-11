@@ -30,9 +30,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
-IDE religion: 
 ![PyCharm](https://img.shields.io/badge/PyCharm-%000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-+
 ![SublimeText](https://img.shields.io/badge/SublimeText-%#FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white)
 
 # 📊 GitHub Stats:
