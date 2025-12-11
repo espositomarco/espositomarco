@@ -11,7 +11,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF7A00?style=for-the-badge&logo=simulink&logoColor=white)
-![Modelica](https://img.shields.io/badge/Simulink-0F71B4?style=for-the-badge&logo=modelica&logoColor=white)
+![Modelica](https://img.shields.io/badge/Modelica-0F71B4?style=for-the-badge&logo=modelica&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white)
 
 ![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&style=for-the-badge&logoColor=white)
