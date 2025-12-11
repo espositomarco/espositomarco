@@ -30,8 +30,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
-![PyCharm](https://img.shields.io/badge/PyCharm-%000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![SublimeText](https://img.shields.io/badge/SublimeText-%#FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white)
+Coding tools: ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) + ![Sublime Text](https://img.shields.io/badge/Sublime_Text-404040?style=for-the-badge&logo=sublimetext&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=espositomarco&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)<br/>
