@@ -30,7 +30,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
-![Grav](https://img.shields.io/badge/grav-%23FFFFFF.svg?style=for-the-badge&logo=grav&logoColor=221E1F)
+IDE religion: ![PyCharm](https://img.shields.io/badge/grav-%000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) + ![SublimeText](https://img.shields.io/badge/SublimeText-%#FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=espositomarco&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)<br/>
